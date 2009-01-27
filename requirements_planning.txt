@@ -1,0 +1,13 @@
+
+* pull current market data for different eve regions
+* be able to write reports and data to google spreadsheets
+* be able to use spreadsheets to pull and manipulate data and write to other
+  spreadsheets.
+  
+e.g. pull required materials for certain items and their market prices, pull baker's
+prices, calculate costs and profitability, etc.
+
+* pull corp wallet information into spreadsheets for easy accounting and auditing
+* (also for personal wallets)
+
+* see where orders are closing the most often, etc.
