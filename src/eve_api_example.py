@@ -4,8 +4,8 @@
 import httplib
 import urllib
 
-userid = 1229357
-apikey = '1D264A1BC92E432CBAAF1045E84EAFB16B737CADC639442290FA14AD8E021525'
+#userid = your user id
+#apikey = your apikey
 # setup the parameters we will be sending to the webserver; note that all of this
 # information is gathered from the API Key page that the user should visit, and
 # the characterID is gathered from /account/Characters.xml.aspx
